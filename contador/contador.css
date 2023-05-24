@@ -1,0 +1,37 @@
+body {
+background-color: darkcyan;
+}
+
+main {
+width: 100%;
+height: 190vh; align-items: center;
+Justify-content: center;
+display: flex;
+flex-direction: column;
+}
+
+
+#value {
+background-color: #fff
+color: black;
+border-radius: 5px;
+width: 150px;
+height: 150px;
+margin-bottom: 10px;
+align-items: center; 
+display: flex;
+ font-size: 50px; 
+Justify-content: center;
+}
+
+button {
+border: none;
+width: 150px;
+border-radius: 5px; 
+margin-bottom: 10px;
+height: 56px;
+ font-size: 20px;
+  cursor: pointer; 
+  color: #fff;
+background-color: darkblue
+}
